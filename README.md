@@ -5,7 +5,7 @@
 3. RAIHAN TAUFIQURRAHMAN (2000385)
 4. YOSAFAT (2009929)
 
-## Analisis Kelebihan dan Kekurangan
+## Analisis Kelebihan dan Kekurangan Implementasi
 ### Pipe 
 - Kelebihan: Sinkronisasi otomatis 
 - Kekurangan: Satu pipe hanya bisa digunakan untuk satu arah komunikasi
