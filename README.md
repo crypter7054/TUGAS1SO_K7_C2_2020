@@ -7,8 +7,8 @@
 
 ## Analisis Kelebihan dan Kekurangan Implementasi
 ### Pipe 
-- Kelebihan: Sinkronisasi otomatis 
-- Kekurangan: Satu pipe hanya bisa digunakan untuk satu arah komunikasi
+- Kelebihan: Sinkronisasi otomatis.
+- Kekurangan: Satu pipe hanya bisa digunakan untuk satu arah komunikasi.
 ### Memory Map
 - Kelebihan: Dapat melakukan dua arah komunikasi karena dishare dalam beberapa proses
 - Kekurangan: Sinkronisasi tidak otomatis
